@@ -1,7 +1,7 @@
 # HTML-projects
 
-###Polish:
+### Polish:
 Repozytorium które przechowuje moje zadania z języka HTML.
 
-###English:
+### English:
 A repository that holds my HTML assignments.
