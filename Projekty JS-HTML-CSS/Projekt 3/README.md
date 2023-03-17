@@ -1,4 +1,4 @@
-# WYGLĄD STRONY
+## WYGLĄD STRONY
 
 <img src="strona.jpg"/>
 
