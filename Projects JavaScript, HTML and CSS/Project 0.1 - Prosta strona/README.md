@@ -1,3 +1,3 @@
 ## Appearance of the website
 
-<img src="strona.jpg"/>
+<img src="page.jpg"/>
